@@ -25,11 +25,4 @@ Um sistema simples de gerenciamento de tarefas desenvolvido com Laravel, com foc
 - Laravel 12.x
 - Blade
 - MySQL (ou outro banco compatível)
-- Bootstrap (ou outro framework para layout, se usado)
-
-## ⚙️ Instalação
-
-1. Clone este repositório:
-
-```bash
-git clone https://github.com/seu-usuario/seu-repo.git
+- TailwindCSS
